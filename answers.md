@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Answer 1: git version 2.26.2.windows.1
 
 Answer 2: 
@@ -100,3 +101,6 @@ Answer 13:
     ----                -------------         ------ ----
     -a----        5/15/2020   5:31 PM            302 .gitignore
     -a----        5/15/2020   5:31 PM             11 README.md
+=======
+test
+>>>>>>> e58d745596c96598c6eee524b2518d02079a03e5
